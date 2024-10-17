@@ -1,4 +1,8 @@
 ## Hi there 👋
+I’m from China. 
+
+My PR:
+- [Gstreamer](https://gitlab.freedesktop.org/gstreamer/gstreamer/-/merge_requests?scope=all&state=all&author_username=HuQian)
 
 <!--
 **HuQian/HuQian** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
